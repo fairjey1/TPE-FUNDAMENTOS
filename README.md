@@ -1,4 +1,5 @@
 Este repositorio contiene una notebook de Jupyter con el desarrollo de un trabajo practico especial de la materia Fundamentos de la Ciencia de Datos de la Facultad de Ciencias Exactas de la UNICEN
+
 Para ejecutar este proyecto se necesita:
 - Tener Python instalado en tu computadora (si no lo tenes descargalo de aca https://www.python.org/) 
 - Seguir los pasos a continuación
