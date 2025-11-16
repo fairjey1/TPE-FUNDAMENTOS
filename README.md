@@ -7,6 +7,7 @@ Para ejecutar este proyecto se necesita:
 Seguí estos pasos para correr la notebook en tu computadora:
 1. Clona el repositorio
 > git clone https://github.com/fairjey1/TPE-FUNDAMENTOS.git
+
 > cd TPE-FUNDAMENTOS
 2. Crea un entorno virtual
 > python -m venv tpefinal
